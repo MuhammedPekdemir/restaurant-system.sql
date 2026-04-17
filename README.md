@@ -3,11 +3,14 @@
 SQL Server üzerinde geliştirilmiş rezervasyon ve masa yönetim sistemi.
 
 
+
+
 **Proje Hakkında**
 
 Akademik grup projesi için hazırladığım veritabanı sistemi. 
 
 İş mantığının büyük bir kısmı, veri bütünlüğünü korumak adına SQL katmanında (Trigger / Stored Procedure) kurgulanmıştır.
+
 
 
 **Özellikler**
@@ -17,6 +20,7 @@ Admin paneli (tek hesap modeli)
 Masa ekleme, aktif/pasif yönetimi
 3 saatlik saat dilimleriyle rezervasyon (09:00 - 00:00)
 Günlük masa doluluk takibi
+
 
 
 **Notlar**
