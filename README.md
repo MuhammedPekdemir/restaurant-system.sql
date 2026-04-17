@@ -1,4 +1,4 @@
-#Restaurant Table Tracking System
+# Restaurant Table Tracking System
 
 SQL Server üzerinde geliştirilmiş rezervasyon ve masa yönetim sistemi.
 
